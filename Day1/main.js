@@ -1,0 +1,1 @@
+console.log("My name is", firstName, lastName, "I am", age, "years old, and live in", country, city)
