@@ -51,3 +51,5 @@ let finalLv2Sentence = 'You cannot end a sentence with because because because i
 let phrase = 'because because because'
 console.log("This final excercise makes no sence, how am i supposed to use the *substr* to cut out a part")
 console.log(finalLv2Sentence.substr(finalLv2Sentence.indexOf(phrase), finalLv2Sentence.indexOf(phrase) + phrase.length))
+
+// Can save level 3 for a later time if i really need to learn how to format string, but i dont find that too important now
